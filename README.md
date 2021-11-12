@@ -12,7 +12,9 @@ Set-up bucket and .env
 
 Go to http://localhost:9000
 Create new bucket, e.g. "localbucket"
+
 Create new service account, copy access and secret key.
+
 Create .env from env.exmple and fill credentials
 
 Edit policy file in scripts/policy.example.json accrodingly
